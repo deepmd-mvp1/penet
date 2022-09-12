@@ -230,7 +230,7 @@ dependencies:
     - defusedxml==0.5.0
     - dicom==0.9.9.post1
     - enum34==1.1.6
-    - get==0.0.39
+    
     - gpustat==0.4.1
     - html5lib==0.9999999
     - imageio==2.4.1
