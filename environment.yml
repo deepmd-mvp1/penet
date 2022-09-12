@@ -283,4 +283,5 @@ dependencies:
     - werkzeug==1.0.1
     - wheel==0.34.2
 # prefix: /home/marshuang80/miniconda3/envs/ctpe
+# prefix: /opt/conda/envs/ctpe
 
