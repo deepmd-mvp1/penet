@@ -60,7 +60,7 @@ flask=0.12.2=py36hb24657c_0
 flask-cors=3.0.3=py36h2d857d3_0
 fontconfig=2.12.4=h88586e7_1
 freetype=2.8=hab7d2ae_1
-get=0.0.39=pypi_0
+# get=0.0.39=pypi_0
 get_terminal_size=1.0.0=haa9412d_0
 gevent=1.2.2=py36h2fe25dc_0
 glib=2.53.6=h5d9569c_2
