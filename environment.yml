@@ -282,5 +282,5 @@ dependencies:
     - wcwidth==0.1.9
     - werkzeug==1.0.1
     - wheel==0.34.2
-prefix: /home/marshuang80/miniconda3/envs/ctpe
+# prefix: /home/marshuang80/miniconda3/envs/ctpe
 
