@@ -1,7 +1,7 @@
-python test.py --data_dir /data4/PE_stanford/Stanford_data/ \
-                 --ckpt_path /data4/PE_stanford/ckpts/penet_best.pth.tar \
-                 --results_dir results \
+python test.py --data_dir /home/input/ \
+                 --ckpt_path /home/input/model/penet_best.pth.tar \
+                 --results_dir /home/output \
                  --phase test \
                  --name first_test \
                  --dataset pe \
-                 --gpu_ids 3
+                 --gpu_ids 0
